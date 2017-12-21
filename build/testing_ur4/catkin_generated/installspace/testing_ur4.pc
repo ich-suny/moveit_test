@@ -1,0 +1,8 @@
+prefix=/home/sy/sun.y/ros/moveit_test1/install
+
+Name: testing_ur4
+Description: Description of testing_ur4
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/sy/sun.y/ros/moveit_test1/install/lib 
+Requires: 

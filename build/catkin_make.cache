@@ -1,0 +1,2 @@
+testing_ur4
+-DCATKIN_DEVEL_PREFIX=/home/sy/sun.y/ros/moveit_test1/devel -DCMAKE_INSTALL_PREFIX=/home/sy/sun.y/ros/moveit_test1/install -G Unix Makefiles
